@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086385051353",
+    "project_id": "faceless-cf648",
+    "storage_bucket": "faceless-cf648.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086385051353:android:a5e02108baff3047d810c8",
+        "android_client_info": {
+          "package_name": "com.architsoni.faceless"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086385051353-aglkgida0q3jod20um27ptabtqngpu4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW8wRR_p4CHjxtIenJpwO1LURmamHUMDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086385051353-aglkgida0q3jod20um27ptabtqngpu4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
